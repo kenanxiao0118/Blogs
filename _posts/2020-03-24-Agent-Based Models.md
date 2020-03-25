@@ -18,6 +18,6 @@ Several well documented posts from zhihu.com have properly introduced the Agent-
 3. **Bounded rationality**
 4. **Learning and evolving**
 
-The following is the link to the p
+The following is the link to the posts:
 
 https://zhuanlan.zhihu.com/AgentBasedModel
